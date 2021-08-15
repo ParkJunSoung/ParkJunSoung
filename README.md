@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img height="100" src="https://raw.githubusercontent.com/resumejob/awesome-resume/master/imgs/rabbit-256.png" alt="osjobs" /> <br> <br> 海外兔
+  <img height="100" src="https://avatars.githubusercontent.com/u/80811497?v=4" alt="osjobs" /> <br> <br> 박준성
 </h1>
 
 <p align="center">
